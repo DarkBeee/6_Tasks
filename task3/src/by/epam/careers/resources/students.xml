@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StudentsArchive>
+    <Student id="1607195172815">
+        <name>Иван Иванов</name>
+        <faculty>КСИС</faculty>
+        <group>32</group>
+        <phone>+375291234567</phone>
+        <address>г. Минск</address>
+    </Student>
+    <Student id="1607195252044">
+        <name>qwert</name>
+        <faculty>qwerty</faculty>
+        <group>qwerty</group>
+        <phone>qwerty</phone>
+        <address>qwerty</address>
+    </Student>
+</StudentsArchive>
